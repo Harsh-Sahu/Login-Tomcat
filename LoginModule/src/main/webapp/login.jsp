@@ -10,6 +10,7 @@
 
 <form action="Login">
 
+Enter Employee_ID_Number:<input type="text" name="Employee_ID_Number"><br>
 Enter username:<input type="text" name="uname"><br>
 Enter password:<input type="password" name="pass"><br>
 <input type="submit" value="login"><br>

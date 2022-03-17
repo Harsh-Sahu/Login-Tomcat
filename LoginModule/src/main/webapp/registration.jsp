@@ -19,7 +19,10 @@
 						
 						<h1 class="text-center">Registration Page</h1>
 						<br>
-						
+						<div class="form-group">
+							<label class="control-label" for="Employee_ID_Number"> Employee_ID_Number</label>
+							<input type="text" name="Employee_ID_Number" class="form-control" placeholder="Employee_ID_Number" required="required">
+						</div>
 						<div class="form-group">
 							<label class="control-label" for="username"> User Name</label>
 							<input type="text" name="username" class="form-control" placeholder="Username" required="required">

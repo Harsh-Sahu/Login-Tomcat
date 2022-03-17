@@ -9,7 +9,7 @@ import com.mysql.cj.xdevapi.Statement;
 
 public class LoginDao {
 
-	 String sql="select * from login where username=? and password=?";
+	 String sql="select * from details where username=? and password=?";
 	 String url="jdbc:mysql://127.0.0.1:3306/sys";
 	 String username="root";
 	 String password="Ushasahu1";

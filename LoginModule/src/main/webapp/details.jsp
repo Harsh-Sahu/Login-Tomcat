@@ -7,17 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<%
-
-   if(session.getAttribute("uname")==null)
-   {
-	   response.sendRedirect("login.jsp");
-   }
-%>
-
-   Welcome ${uname}
-   <a href="details.jsp">Details</a>
-
+	name = Harsh Sahu      salary= 896000   job= asso  bonus=89
 </body>
 </html>

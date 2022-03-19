@@ -20,7 +20,7 @@
 	   Enter user id: <input type="text"><br>
 		<input type="submit" value="submit">
 	</form>
-	<h4>Employee id:${eid}</h4>
+	<h4>Employe id:${eid}</h4>
 	<h4>First name:${fname}</h4>
 	<h4>Last name:${lname}</h4>
 	<h4>Date of birth:${dob}</h4>
@@ -28,6 +28,6 @@
 	<h4>Job role:${jobrole}</h4>
 	<h4>Monthly salary:${monthlysal}</h4>
 	<h4>Yearly Bonus:${yearly_bonus}</h4>
-	<h4>Total Salary :${total_sal}</h4>
+	<h4>Total Anual Salary :${Anual_sal}</h4>
 </body>
 </html>
